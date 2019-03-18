@@ -3,6 +3,8 @@ These are my settings for ESLint and Prettier
 
 You might like them - or you might not. Don't worry you can always change them.
 
+[Youtube link](https://www.youtube.com/watch?v=lHAeK8t94as)
+
 ## What it does
 * Lints JavaScript based on the latest standards
 * Fixes issues and formatting errors with Prettier
